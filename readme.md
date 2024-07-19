@@ -1,4 +1,4 @@
-# chai aur backend
+# backend
 
-this is a backend video series with javascript
+this is a project using javascript
 [model link](https://app.eraser.io/workspace/ZN6MKo0887xifGeFg0Y1?origin=share)
